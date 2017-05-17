@@ -1,0 +1,27 @@
+ant:
+<ant>
+  <mkdir dir="D:\Codes\Spatial Envelope\gistdescriptor\DotNetProject\for_redistribution" />
+  <mkdir dir="D:\Codes\Spatial Envelope\gistdescriptor\DotNetProject\for_testing" />
+  <mkdir dir="D:\Codes\Spatial Envelope\gistdescriptor\DotNetProject\for_redistribution_files_only" />
+</ant>
+mcc -W 'dotnet:DotNetProject,Class1,0.0,private' -T link:lib -d 'D:\Codes\Spatial Envelope\gistdescriptor\DotNetProject\for_testing' -v 'class{Class1:D:\Codes\Spatial Envelope\gistdescriptor\LMgist.m}' 
+Compiler version: 6.0 (R2015a)
+Dependency analysis by REQUIREMENTS.
+[Warning: Adding path "D:\Codes\Spatial Envelope\gistdescriptor" to Compiler
+path instance.] 
+Parsing file "D:\Codes\Spatial Envelope\gistdescriptor\LMgist.m"
+	(Referenced from: "Compiler Command Line").
+Deleting 4 temporary MEX authorization files.
+Removing: 'C:\Users\MRAHMA~1\AppData\Local\Temp\mathworks_tmp_008708763_2160.auth'.
+Removing: 'C:\Users\MRAHMA~1\AppData\Local\Temp\mathworks_tmp_0087053_2160.auth'.
+Removing: 'C:\Users\MRAHMA~1\AppData\Local\Temp\mathworks_tmp_0087023736_2160.auth'.
+Removing: 'C:\Users\MRAHMA~1\AppData\Local\Temp\mathworks_tmp_00870523_2160.auth'.
+Generating file "D:\Codes\Spatial Envelope\gistdescriptor\DotNetProject\for_testing\Class1Native.cs".
+Generating file "D:\Codes\Spatial Envelope\gistdescriptor\DotNetProject\for_testing\Class1.cs".
+Generating file "D:\Codes\Spatial Envelope\gistdescriptor\DotNetProject\for_testing\readme.txt".
+Executing command: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe /nologo /optimize /doc:"D:\Codes\Spatial Envelope\gistdescriptor\DotNetProject\for_testing\DotNetProject.xml" /t:library /r:"C:\Program Files\MATLAB\R2015a\toolbox\dotnetbuilder\bin\win64\v2.0\MWArray.dll" /resource:"D:\Codes\Spatial Envelope\gistdescriptor\DotNetProject\for_testing\DotNetProject.ctf" /out:"D:\Codes\Spatial Envelope\gistdescriptor\DotNetProject\for_testing\DotNetProject.dll" "D:\Codes\Spatial Envelope\gistdescriptor\DotNetProject\for_testing\Class1.cs"Executing command: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe /nologo /optimize /doc:"D:\Codes\Spatial Envelope\gistdescriptor\DotNetProject\for_testing\DotNetProjectNative.xml" /t:library /r:"C:\Program Files\MATLAB\R2015a\toolbox\dotnetbuilder\bin\win64\v2.0\MWArray.dll" /resource:"D:\Codes\Spatial Envelope\gistdescriptor\DotNetProject\for_testing\DotNetProject.ctf" /out:"D:\Codes\Spatial Envelope\gistdescriptor\DotNetProject\for_testing\DotNetProjectNative.dll" "D:\Codes\Spatial Envelope\gistdescriptor\DotNetProject\for_testing\Class1Native.cs"
+Packaging...
+Creating the bundle...
+Web based installer created at D:\Codes\Spatial Envelope\gistdescriptor\DotNetProject\for_redistribution\MyAppInstaller_web.exe.
+Packaging complete.
+Elapsed packaging time was: 1 minutes and 6 seconds.

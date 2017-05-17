@@ -1,0 +1,28 @@
+D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\WPF\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\WPF\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\WPF\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\Internship Backup\Code\LMgistPlugin1\WPF\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\Internship Backup\Code\LMgistPlugin1\WPF\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\Internship Backup\Code\LMgistPlugin1\WPF\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\Internship Backup\Code\LMgistPlugin1\WPF\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\Internship Backup\Code\LMgistPlugin1\WPF\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\Internship Backup\Code\LMgistPlugin1\WPF\WpfApplication1\bin\Debug\Accord.dll
+D:\Internship Backup\Code\LMgistPlugin1\WPF\WpfApplication1\bin\Debug\AForge.dll
+D:\Internship Backup\Code\LMgistPlugin1\WPF\WpfApplication1\bin\Debug\AForge.Math.dll
+D:\Internship Backup\Code\LMgistPlugin1\WPF\WpfApplication1\bin\Debug\MathNet.Numerics.dll
+D:\Internship Backup\Code\LMgistPlugin1\WPF\WpfApplication1\bin\Debug\Newtonsoft.Json.dll
+D:\Internship Backup\Code\LMgistPlugin1\WPF\WpfApplication1\bin\Debug\Accord.xml
+D:\Internship Backup\Code\LMgistPlugin1\WPF\WpfApplication1\bin\Debug\AForge.xml
+D:\Internship Backup\Code\LMgistPlugin1\WPF\WpfApplication1\bin\Debug\AForge.Math.xml
+D:\Internship Backup\Code\LMgistPlugin1\WPF\WpfApplication1\bin\Debug\MathNet.Numerics.xml
+D:\Internship Backup\Code\LMgistPlugin1\WPF\WpfApplication1\bin\Debug\Newtonsoft.Json.xml
+D:\Internship Backup\Code\LMgistPlugin1\WPF\WpfApplication1\obj\Debug\SiesmicWPFApplication.csprojResolveAssemblyReference.cache
+D:\Internship Backup\Code\LMgistPlugin1\WPF\WpfApplication1\obj\Debug\MainWindow.baml
+D:\Internship Backup\Code\LMgistPlugin1\WPF\WpfApplication1\obj\Debug\Window1.baml
+D:\Internship Backup\Code\LMgistPlugin1\WPF\WpfApplication1\obj\Debug\MainWindow.g.cs
+D:\Internship Backup\Code\LMgistPlugin1\WPF\WpfApplication1\obj\Debug\Window1.g.cs
+D:\Internship Backup\Code\LMgistPlugin1\WPF\WpfApplication1\obj\Debug\App.g.cs
+D:\Internship Backup\Code\LMgistPlugin1\WPF\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\Internship Backup\Code\LMgistPlugin1\WPF\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+D:\Internship Backup\Code\LMgistPlugin1\WPF\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\Internship Backup\Code\LMgistPlugin1\WPF\WpfApplication1\obj\Debug\SiesmicWPFApplication.csproj.GenerateResource.Cache

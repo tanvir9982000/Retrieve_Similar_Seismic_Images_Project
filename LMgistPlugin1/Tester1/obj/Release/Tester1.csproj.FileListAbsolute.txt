@@ -1,0 +1,13 @@
+D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Tester1\bin\Release\Tester1.exe.config
+D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Tester1\bin\Release\Tester1.exe
+D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Tester1\bin\Release\Tester1.pdb
+D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Tester1\bin\Release\MathNet.Numerics.dll
+D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Tester1\bin\Release\MathNet.Numerics.xml
+D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Tester1\obj\Release\Tester1.exe
+D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Tester1\obj\Release\Tester1.pdb
+D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Tester1\obj\Release\Tester1.csprojResolveAssemblyReference.cache
+D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Tester1\obj\Release\TesterUserControl1.baml
+D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Tester1\obj\Release\TesterUserControl1.g.cs
+D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Tester1\obj\Release\Tester1_Content.g.cs
+D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Tester1\obj\Release\Tester1_MarkupCompile.cache
+D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Tester1\obj\Release\Tester1.g.resources

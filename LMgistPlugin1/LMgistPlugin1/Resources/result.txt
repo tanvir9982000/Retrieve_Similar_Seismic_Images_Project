@@ -1,0 +1,10 @@
+Distance13 : 0.69303946525272 elapsed time: 22.307
+Distance13 : 0.69303946525272 elapsed time: 21.568
+Distance13 : 0.69303946525272 elapsed time: 21.774
+Distance13 : 0.69303946525272 elapsed time: 22.009
+Distance13 : 0.69303946525272 elapsed time: 22.003
+Distance13 : 0.69303946525272 elapsed time: 20.85
+Distance13 : 0.69303946525272 elapsed time: 20.834
+Distance13 : 0.69303946525272 elapsed time: 20.916
+Distance13 : 0.69303946525272 elapsed time: 20.209
+Distance13 : 0.69303946525272 elapsed time: 20.955

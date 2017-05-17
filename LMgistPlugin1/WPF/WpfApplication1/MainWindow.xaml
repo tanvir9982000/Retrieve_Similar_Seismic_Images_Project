@@ -1,0 +1,56 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="WpfApplication1.MainWindow"
+        Title="MainWindow" Height="915.15" Width="613">
+
+    <Grid x:Name="maingrid" Margin="10,10,10,10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label Grid.ColumnSpan="2" Content="Reference Image" HorizontalAlignment="Left" Margin="255,9,0,0" VerticalAlignment="Top"/>
+        <Label Grid.ColumnSpan="2" Content="Similar Images" HorizontalAlignment="Left" Margin="250,185,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.506,-1.769"/>
+        <Button x:Name="SI" Content="Snip Image" HorizontalAlignment="Left" Height="23" Margin="31,56,0,0" VerticalAlignment="Top" Width="116" Click="Snip_Button_Click" Grid.ColumnSpan="2" RenderTransformOrigin="-0.983,1.931"/>
+        <Button x:Name="FSI" Content="Find Similar Images" HorizontalAlignment="Left" Height="23" Margin="31,87,0,0" VerticalAlignment="Top" Width="115" Click="FSI_Button_Click" Grid.ColumnSpan="2"/>
+        <Button x:Name="PCG" Content="Precompute Gist" HorizontalAlignment="Left" Height="23" Margin="30,26,0,0" VerticalAlignment="Top" Width="116" Click="PCG_Button_Click" RenderTransformOrigin="0.475,-6" Grid.ColumnSpan="2"/>
+        <Button x:Name="RSIW" Grid.ColumnSpan="2" Content="Reset Window" HorizontalAlignment="Left" Margin="32,147,0,0" VerticalAlignment="Top" Width="113" Height="23" Click="RSIW_Button_Click"/>
+        <Button x:Name="KNN_button" Grid.ColumnSpan="2" Content="KNN" HorizontalAlignment="Left" Height="23" Margin="30,117,0,0" VerticalAlignment="Top" Width="116" Click="KNN_button_Click"/>
+        <Border BorderBrush="Black" BorderThickness="2" HorizontalAlignment="Left" Height="145" Margin="225,36,0,0" VerticalAlignment="Top" Width="160" Grid.ColumnSpan="2">
+            <StackPanel x:Name="sp0" Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="139" Margin="3,2,-2,0" VerticalAlignment="Top" Width="155"/>
+        </Border>
+
+        <Border BorderBrush="Black" BorderThickness="2" HorizontalAlignment="Left" Height="336" Margin="10,219,0,0" VerticalAlignment="Top" Width="567" Grid.ColumnSpan="2">
+            <ScrollViewer x:Name="sv1" Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="302" Margin="8,17,0,0" VerticalAlignment="Top" Width="543" MouseDoubleClick="sv1_MouseHover" >
+                <StackPanel x:Name="sp1" Height="302" >
+                    <ListView x:Name="lv1" Height="287" Width="490">
+                        <ListView.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <UniformGrid Columns="4"/>
+                            </ItemsPanelTemplate>
+                        </ListView.ItemsPanel>
+                    </ListView>
+                </StackPanel>
+            </ScrollViewer>
+        </Border>
+
+        <TextBox x:Name="tb" HorizontalAlignment="Left">ToolTip with non-text content
+            <TextBox.ToolTip>
+                <ToolTip>
+                    <DockPanel Width="500" Height="700">
+
+                        <TextBlock>Useful information goes here.</TextBlock>
+                    </DockPanel>
+                </ToolTip>
+            </TextBox.ToolTip>
+        </TextBox>
+
+
+        <Image x:Name="imgrid" Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="285" Margin="15,565,0,0" VerticalAlignment="Top" Width="558" />
+
+
+
+
+
+    </Grid>
+</Window>

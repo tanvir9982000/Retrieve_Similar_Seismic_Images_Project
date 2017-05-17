@@ -1,0 +1,81 @@
+alpha=.05
+C:\Users\MRahman37\Desktop\Resources\5.jpg-C:\Users\MRahman37\Desktop\Resources\3.jpg tempD: 0.132701525811683tempH: 2distance :1.90088048474764
+C:\Users\MRahman37\Desktop\Resources\5.jpg-C:\Users\MRahman37\Desktop\Resources\1.jpg tempD: 0.0741645403320213tempH: 1distance :0.950275018952133
+C:\Users\MRahman37\Desktop\Resources\5.jpg-C:\Users\MRahman37\Desktop\Resources\7.jpg tempD: -0.25012655359604tempH: 1distance :0.953128164640692
+C:\Users\MRahman37\Desktop\Resources\5.jpg-C:\Users\MRahman37\Desktop\Resources\6.jpg tempD: -0.420624405328382tempH: 3distance :2.85884624451789
+C:\Users\MRahman37\Desktop\Resources\5.jpg-C:\Users\MRahman37\Desktop\Resources\2.jpg tempD: -0.089250626597484tempH: 2distance :1.9003982837174
+C:\Users\MRahman37\Desktop\Resources\4.jpg-C:\Users\MRahman37\Desktop\Resources\3.jpg tempD: 0.504116541555284tempH: 1distance :0.962706674373483
+C:\Users\MRahman37\Desktop\Resources\4.jpg-C:\Users\MRahman37\Desktop\Resources\1.jpg tempD: 0.445579556075623tempH: 3distance :2.85992705703963
+C:\Users\MRahman37\Desktop\Resources\4.jpg-C:\Users\MRahman37\Desktop\Resources\2.jpg tempD: 0.282164389146117tempH: 1distance :0.95398083712511
+C:\Users\MRahman37\Desktop\Resources\4.jpg-C:\Users\MRahman37\Desktop\Resources\7.jpg tempD: 0.121288462147561tempH: 2distance :1.90073554455251
+C:\Users\MRahman37\Desktop\Resources\4.jpg-C:\Users\MRahman37\Desktop\Resources\6.jpg tempD: -0.0492093895847807tempH: 2distance :1.90012107820117
+
+alpha = .95
+C:\Users\MRahman37\Desktop\Resources\5.jpg-C:\Users\MRahman37\Desktop\Resources\3.jpg tempD: 0.132701525811683tempH: 2distance :0.116729210205111
+C:\Users\MRahman37\Desktop\Resources\5.jpg-C:\Users\MRahman37\Desktop\Resources\6.jpg tempD: -0.420624405328382tempH: 3distance :0.318078645839962
+C:\Users\MRahman37\Desktop\Resources\5.jpg-C:\Users\MRahman37\Desktop\Resources\2.jpg tempD: -0.089250626597484tempH: 2distance :0.107567390630641
+C:\Users\MRahman37\Desktop\Resources\5.jpg-C:\Users\MRahman37\Desktop\Resources\7.jpg tempD: -0.25012655359604tempH: 1distance :0.109435128173141
+C:\Users\MRahman37\Desktop\Resources\5.jpg-C:\Users\MRahman37\Desktop\Resources\1.jpg tempD: 0.0741645403320213tempH: 1distance :0.0552253600905271
+C:\Users\MRahman37\Desktop\Resources\4.jpg-C:\Users\MRahman37\Desktop\Resources\3.jpg tempD: 0.504116541555284tempH: 1distance :0.291426813096178
+C:\Users\MRahman37\Desktop\Resources\4.jpg-C:\Users\MRahman37\Desktop\Resources\1.jpg tempD: 0.445579556075623tempH: 3distance :0.338614083752922
+C:\Users\MRahman37\Desktop\Resources\4.jpg-C:\Users\MRahman37\Desktop\Resources\2.jpg tempD: 0.282164389146117tempH: 1distance :0.125635905377091
+C:\Users\MRahman37\Desktop\Resources\4.jpg-C:\Users\MRahman37\Desktop\Resources\7.jpg tempD: 0.121288462147561tempH: 2distance :0.113975346497614
+C:\Users\MRahman37\Desktop\Resources\4.jpg-C:\Users\MRahman37\Desktop\Resources\6.jpg tempD: -0.0492093895847807tempH: 2distance :0.102300485822141
+
+C:\Users\MRahman37\Desktop\Resources\5.jpg-C:\Users\MRahman37\Desktop\Resources\3.jpg tempD: 0.132701525811683tempH: 0.5distance :0.0417292102051113
+C:\Users\MRahman37\Desktop\Resources\5.jpg-C:\Users\MRahman37\Desktop\Resources\2.jpg tempD: -0.089250626597484tempH: 0.5distance :0.0325673906306414
+C:\Users\MRahman37\Desktop\Resources\5.jpg-C:\Users\MRahman37\Desktop\Resources\7.jpg tempD: -0.25012655359604tempH: 0.25distance :0.0719351281731412
+C:\Users\MRahman37\Desktop\Resources\5.jpg-C:\Users\MRahman37\Desktop\Resources\6.jpg tempD: -0.420624405328382tempH: 0.6distance :0.198078645839962
+C:\Users\MRahman37\Desktop\Resources\5.jpg-C:\Users\MRahman37\Desktop\Resources\1.jpg tempD: 0.0741645403320213tempH: 0.2distance :0.015225360090527
+C:\Users\MRahman37\Desktop\Resources\4.jpg-C:\Users\MRahman37\Desktop\Resources\3.jpg tempD: 0.504116541555284tempH: 0.25distance :0.253926813096177
+C:\Users\MRahman37\Desktop\Resources\4.jpg-C:\Users\MRahman37\Desktop\Resources\1.jpg tempD: 0.445579556075623tempH: 0.6distance :0.218614083752921
+C:\Users\MRahman37\Desktop\Resources\4.jpg-C:\Users\MRahman37\Desktop\Resources\2.jpg tempD: 0.282164389146117tempH: 0.25distance :0.0881359053770914
+C:\Users\MRahman37\Desktop\Resources\4.jpg-C:\Users\MRahman37\Desktop\Resources\7.jpg tempD: 0.121288462147561tempH: 0.5distance :0.0389753464976143
+C:\Users\MRahman37\Desktop\Resources\4.jpg-C:\Users\MRahman37\Desktop\Resources\6.jpg tempD: -0.0492093895847807tempH: 0.4distance :0.0223004858221414
+
+
+alpha = .5
+D= 0.453718545248428 File= C:\Users\MRahman37\Desktop\Resources\1.jpg
+D= 0.617133712177934 File= C:\Users\MRahman37\Desktop\Resources\2.jpg
+D= 0.395181559768767 File= C:\Users\MRahman37\Desktop\Resources\3.jpg
+D= 0.899298101324051 File= C:\Users\MRahman37\Desktop\Resources\4.jpg
+D= 0.52788308558045 File= C:\Users\MRahman37\Desktop\Resources\5.jpg
+D= 0.948507490908832 File= C:\Users\MRahman37\Desktop\Resources\6.jpg
+D= 0.77800963917649 File= C:\Users\MRahman37\Desktop\Resources\7.jpg
+Done FSI
+FSI: C:\Users\MRahman37\Desktop\Resources\3.jpg 0 distance :0.395181559768767
+FSI: C:\Users\MRahman37\Desktop\Resources\1.jpg 0 distance :0.453718545248428
+FSI: C:\Users\MRahman37\Desktop\Resources\5.jpg 0 distance :0.52788308558045
+FSI: C:\Users\MRahman37\Desktop\Resources\2.jpg 0 distance :0.617133712177934
+FSI: C:\Users\MRahman37\Desktop\Resources\7.jpg 0 distance :0.77800963917649
+FSI: C:\Users\MRahman37\Desktop\Resources\4.jpg 0 distance :0.899298101324051
+FSI: C:\Users\MRahman37\Desktop\Resources\6.jpg 0 distance :0.948507490908832
+'WpfApplication1.vshost.exe' (CLR v4.0.30319: WpfApplication1.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\UIAutomationProvider\v4.0_4.0.0.0__31bf3856ad364e35\UIAutomationProvider.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Before KNN: C:\Users\MRahman37\Desktop\Resources\3.jpg -1
+Before KNN: C:\Users\MRahman37\Desktop\Resources\1.jpg 1
+Before KNN: C:\Users\MRahman37\Desktop\Resources\5.jpg 0
+Before KNN: C:\Users\MRahman37\Desktop\Resources\2.jpg -1
+Before KNN: C:\Users\MRahman37\Desktop\Resources\7.jpg 1
+Before KNN: C:\Users\MRahman37\Desktop\Resources\4.jpg 0
+Before KNN: C:\Users\MRahman37\Desktop\Resources\6.jpg -1
+Performing KNN with K = 3
+C:\Users\MRahman37\Desktop\Resources\5.jpg-C:\Users\MRahman37\Desktop\Resources\3.jpg tempD: 0.132701525811683 tempH: 0.5 distance :0.258804847476374
+C:\Users\MRahman37\Desktop\Resources\5.jpg-C:\Users\MRahman37\Desktop\Resources\1.jpg tempD: 0.0741645403320213 tempH: 0.2 distance :0.10275018952133
+C:\Users\MRahman37\Desktop\Resources\5.jpg-C:\Users\MRahman37\Desktop\Resources\7.jpg tempD: -0.25012655359604 tempH: 0.25 distance :0.156281646406916
+C:\Users\MRahman37\Desktop\Resources\5.jpg-C:\Users\MRahman37\Desktop\Resources\6.jpg tempD: -0.420624405328382 tempH: 0.6 distance :0.388462445178927
+C:\Users\MRahman37\Desktop\Resources\5.jpg-C:\Users\MRahman37\Desktop\Resources\2.jpg tempD: -0.089250626597484 tempH: 0.5 distance :0.253982837174022
+C:\Users\MRahman37\Desktop\Resources\4.jpg-C:\Users\MRahman37\Desktop\Resources\3.jpg tempD: 0.504116541555284 tempH: 0.25 distance :0.25206674373483
+C:\Users\MRahman37\Desktop\Resources\4.jpg-C:\Users\MRahman37\Desktop\Resources\1.jpg tempD: 0.445579556075623 tempH: 0.6 distance :0.399270570396274
+C:\Users\MRahman37\Desktop\Resources\4.jpg-C:\Users\MRahman37\Desktop\Resources\2.jpg tempD: 0.282164389146117 tempH: 0.25 distance :0.164808371251101
+C:\Users\MRahman37\Desktop\Resources\4.jpg-C:\Users\MRahman37\Desktop\Resources\7.jpg tempD: 0.121288462147561 tempH: 0.5 distance :0.25735544552506
+C:\Users\MRahman37\Desktop\Resources\4.jpg-C:\Users\MRahman37\Desktop\Resources\6.jpg tempD: -0.0492093895847807 tempH: 0.4 distance :0.201210782011653
+7
+After KNN: C:\Users\MRahman37\Desktop\Resources\1.jpg 1 distance :0.453718545248428
+After KNN: C:\Users\MRahman37\Desktop\Resources\5.jpg 1 distance :0.52788308558045
+After KNN: C:\Users\MRahman37\Desktop\Resources\7.jpg 1 distance :0.77800963917649
+After KNN: C:\Users\MRahman37\Desktop\Resources\3.jpg -1 distance :0.395181559768767
+After KNN: C:\Users\MRahman37\Desktop\Resources\2.jpg -1 distance :0.617133712177934
+After KNN: C:\Users\MRahman37\Desktop\Resources\4.jpg -1 distance :0.899298101324051
+After KNN: C:\Users\MRahman37\Desktop\Resources\6.jpg -1 distance :0.948507490908832
+
+

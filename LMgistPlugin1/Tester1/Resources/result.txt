@@ -1,0 +1,168 @@
+D12 =    0.8960
+D13 =    0.6930
+D14 =    0.4723
+
+Distance13 : 0.693039465252719 elapsed time: 24.095
+Distance12 : 0.87875922336063 elapsed time: 22.64
+Distance14 : 0.472487369908816 elapsed time: 23.199
+Distance12 : 0.87875922336063 elapsed time: 22.915
+Distance12 : 0.87875922336063 elapsed time: 22.493
+Distance12 : 0.87875922336063 elapsed time: 22.689
+Distance12 : 0.87875922336063 elapsed time: 23.814
+Distance13 : 0.693039465252719 elapsed time: 22.479
+Distance13 : 0.693039465252719 elapsed time: 24.023
+Distance13 : 0.693039465252719 elapsed time: 25.2
+Distance13 : 0.693039465252719 elapsed time: 23.455
+Distance13 : 0.693039465252719 elapsed time: 23.778
+Distance13 : 0.693039465252719 elapsed time: 23.47
+Distance13 : 0.574558886403528 elapsed time: 23.304
+Distance13 : 0.693039465252719 elapsed time: 58.251
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Tester1\Resources\demo1.jpg : 0 elapsed time: 11.55
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Tester1\Resources\demo2.jpg : 0.87875922336063 elapsed time: 11.543
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Tester1\Resources\demo3.jpg : 0.693039465252719 elapsed time: 11.443
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Tester1\Resources\demo4.jpg : 0.472487369908816 elapsed time: 11.494
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\demo1.jpg : 0 elapsed time: 11.312
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\demo2.jpg : 0.87875922336063 elapsed time: 11.285
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\demo3.jpg : 0.693039465252719 elapsed time: 11.237
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\demo4.jpg : 0.472487369908816 elapsed time: 11.269
+
+
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\demo1.jpg : 0 elapsed time: 11.554
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\demo2.jpg : 0.87875922336063 elapsed time: 11.548
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\demo3.jpg : 0.693039465252719 elapsed time: 11.586
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\demo4.jpg : 0.472487369908816 elapsed time: 11.613
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\demo1.jpg : 0 elapsed time: 13.447
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\demo2.jpg : 0.87875922336063 elapsed time: 12.688
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\demo3.jpg : 0.693039465252719 elapsed time: 12.419
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\demo4.jpg : 0.472487369908816 elapsed time: 12.927
+Running tester1:
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\demo1.jpg : 0 elapsed time: 11.472
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\demo2.jpg : 0.87875922336063 elapsed time: 11.461
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\demo3.jpg : 0.693039465252719 elapsed time: 11.388
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\demo4.jpg : 0.472487369908816 elapsed time: 11.314
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\New folder\insidecity_art677.jpg : 0.821175318829062 elapsed time: 11.379
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\New folder\insidecity_art681.jpg : 0.677008828826247 elapsed time: 11.376
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\New folder\insidecity_art690.jpg : 0.59970043704965 elapsed time: 11.42
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\New folder\insidecity_art692.jpg : 0.610402962034466 elapsed time: 11.95
+
+Running wpfApplication1:
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\demo1.jpg : 0 elapsed time: 11.79
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\demo2.jpg : 0.87875922336063 elapsed time: 11.608
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\demo3.jpg : 0.693039465252719 elapsed time: 11.563
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\demo4.jpg : 0.472487369908816 elapsed time: 11.547
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\New folder\insidecity_art677.jpg : 0.821175318829062 elapsed time: 11.582
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\New folder\insidecity_art681.jpg : 0.677008828826247 elapsed time: 11.616
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\New folder\insidecity_art690.jpg : 0.59970043704965 elapsed time: 11.559
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\New folder\insidecity_art692.jpg : 0.610402962034466 elapsed time: 11.588
+
+
+
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\demo1.jpg : 0 elapsed time: 11.446
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\demo2.jpg : 0.87875922336063 elapsed time: 11.453
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\demo3.jpg : 0.693039465252719 elapsed time: 11.59
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\demo4.jpg : 0.472487369908816 elapsed time: 11.392
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\New folder\insidecity_art677.jpg : 0.821175318829062 elapsed time: 11.712
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\New folder\insidecity_art681.jpg : 0.677008828826247 elapsed time: 11.953
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\New folder\insidecity_art690.jpg : 0.59970043704965 elapsed time: 11.723
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\New folder\insidecity_art692.jpg : 0.610402962034466 elapsed time: 11.961
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\demo1.jpg : 0 elapsed time: 11.819
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\demo2.jpg : 0.87875922336063 elapsed time: 11.462
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\demo3.jpg : 0.693039465252719 elapsed time: 11.496
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\demo4.jpg : 0.472487369908816 elapsed time: 11.827
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\New folder\insidecity_art677.jpg : 0.821175318829062 elapsed time: 11.543
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\New folder\insidecity_art681.jpg : 0.677008828826247 elapsed time: 11.679
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\New folder\insidecity_art690.jpg : 0.59970043704965 elapsed time: 11.836
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\New folder\insidecity_art692.jpg : 0.610402962034466 elapsed time: 11.714
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\demo1.jpg : 0 elapsed time: 11.554
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\demo2.jpg : 0.87875922336063 elapsed time: 11.478
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\demo3.jpg : 0.693039465252719 elapsed time: 11.593
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\demo4.jpg : 0.472487369908816 elapsed time: 11.796
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\New folder\insidecity_art677.jpg : 0.821175318829062 elapsed time: 11.824
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\New folder\insidecity_art681.jpg : 0.677008828826247 elapsed time: 11.873
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\New folder\insidecity_art690.jpg : 0.59970043704965 elapsed time: 11.742
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\New folder\insidecity_art692.jpg : 0.610402962034466 elapsed time: 11.942
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\demo1.jpg : 0 elapsed time: 11.975
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\demo2.jpg : 0.87875922336063 elapsed time: 11.738
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\demo3.jpg : 0.693039465252719 elapsed time: 11.771
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\demo4.jpg : 0.472487369908816 elapsed time: 12
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\New folder\insidecity_art677.jpg : 0.821175318829062 elapsed time: 12.218
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\New folder\insidecity_art681.jpg : 0.677008828826247 elapsed time: 11.939
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\New folder\insidecity_art690.jpg : 0.59970043704965 elapsed time: 11.884
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\New folder\insidecity_art692.jpg : 0.610402962034466 elapsed time: 12.313
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\demo1.jpg : 0 elapsed time: 12.556
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\demo2.jpg : 0.87875922336063 elapsed time: 13.217
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\demo3.jpg : 0.693039465252719 elapsed time: 13.258
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\demo4.jpg : 0.472487369908816 elapsed time: 13.575
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\New folder\insidecity_art677.jpg : 0.821175318829062 elapsed time: 13.114
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\New folder\insidecity_art681.jpg : 0.677008828826247 elapsed time: 12.944
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\New folder\insidecity_art690.jpg : 0.59970043704965 elapsed time: 13.073
+Distance1-D:\Codes\Petrel 2015 Plugin\LMgistPlugin1\Resources\New folder\insidecity_art692.jpg : 0.610402962034466 elapsed time: 12.82
+Distance1-C:\Users\MRahman37\Desktop\OutputGist\CUsersMRahman37DesktopResourcesdemo1.jpg.json : 0 elapsed time: 0.079
+Distance1-C:\Users\MRahman37\Desktop\OutputGist\CUsersMRahman37DesktopResourcesdemo2.jpg.json : 0.87875922336063 elapsed time: 0
+Distance1-C:\Users\MRahman37\Desktop\OutputGist\CUsersMRahman37DesktopResourcesdemo3.jpg.json : 0.693039465252719 elapsed time: 0
+Distance1-C:\Users\MRahman37\Desktop\OutputGist\CUsersMRahman37DesktopResourcesdemo4.jpg.json : 0.472487369908816 elapsed time: 0
+Distance1-C:\Users\MRahman37\Desktop\OutputGist\CUsersMRahman37DesktopResourcesNewfolderinsidecity_art677.jpg.json : 0.821175318829062 elapsed time: 0
+Distance1-C:\Users\MRahman37\Desktop\OutputGist\CUsersMRahman37DesktopResourcesNewfolderinsidecity_art681.jpg.json : 0.677008828826247 elapsed time: 0
+Distance1-C:\Users\MRahman37\Desktop\OutputGist\CUsersMRahman37DesktopResourcesNewfolderinsidecity_art690.jpg.json : 0.59970043704965 elapsed time: 0.001
+Distance1-C:\Users\MRahman37\Desktop\OutputGist\CUsersMRahman37DesktopResourcesNewfolderinsidecity_art692.jpg.json : 0.610402962034466 elapsed time: 0.001
+------------------------------------------------------
+
+Distance1-C:\Users\MRahman37\Desktop\OutputGist\CUsersMRahman37DesktopResourcesdemo1.jpg.json : 0 elapsed time: 0.041
+Distance1-C:\Users\MRahman37\Desktop\OutputGist\CUsersMRahman37DesktopResourcesdemo2.jpg.json : 0.87875922336063 elapsed time: 0
+Distance1-C:\Users\MRahman37\Desktop\OutputGist\CUsersMRahman37DesktopResourcesdemo3.jpg.json : 0.693039465252719 elapsed time: 0
+Distance1-C:\Users\MRahman37\Desktop\OutputGist\CUsersMRahman37DesktopResourcesdemo4.jpg.json : 0.472487369908816 elapsed time: 0
+Distance1-C:\Users\MRahman37\Desktop\OutputGist\CUsersMRahman37DesktopResourcesNewfolderinsidecity_art677.jpg.json : 0.821175318829062 elapsed time: 0
+Distance1-C:\Users\MRahman37\Desktop\OutputGist\CUsersMRahman37DesktopResourcesNewfolderinsidecity_art681.jpg.json : 0.677008828826247 elapsed time: 0
+Distance1-C:\Users\MRahman37\Desktop\OutputGist\CUsersMRahman37DesktopResourcesNewfolderinsidecity_art690.jpg.json : 0.59970043704965 elapsed time: 0
+Distance1-C:\Users\MRahman37\Desktop\OutputGist\CUsersMRahman37DesktopResourcesNewfolderinsidecity_art692.jpg.json : 0.610402962034466 elapsed time: 0
+--------------------------------------------------------------------
+Distance1-C:\Users\MRahman37\Desktop\OutputGist\CUsersMRahman37DesktopResourcesdemo1.jpg.json : 0 elapsed time: 0.001
+Distance1-C:\Users\MRahman37\Desktop\OutputGist\CUsersMRahman37DesktopResourcesdemo2.jpg.json : 0.87875922336063 elapsed time: 0.001
+Distance1-C:\Users\MRahman37\Desktop\OutputGist\CUsersMRahman37DesktopResourcesdemo3.jpg.json : 0.693039465252719 elapsed time: 0.001
+Distance1-C:\Users\MRahman37\Desktop\OutputGist\CUsersMRahman37DesktopResourcesdemo4.jpg.json : 0.472487369908816 elapsed time: 0.001
+Distance1-C:\Users\MRahman37\Desktop\OutputGist\CUsersMRahman37DesktopResourcesNewfolderinsidecity_art677.jpg.json : 0.821175318829062 elapsed time: 0.001
+Distance1-C:\Users\MRahman37\Desktop\OutputGist\CUsersMRahman37DesktopResourcesNewfolderinsidecity_art681.jpg.json : 0.677008828826247 elapsed time: 0.001
+Distance1-C:\Users\MRahman37\Desktop\OutputGist\CUsersMRahman37DesktopResourcesNewfolderinsidecity_art690.jpg.json : 0.59970043704965 elapsed time: 0.001
+Distance1-C:\Users\MRahman37\Desktop\OutputGist\CUsersMRahman37DesktopResourcesNewfolderinsidecity_art692.jpg.json : 0.610402962034466 elapsed time: 0.001
+Distance1-C:\Users\MRahman37\Desktop\OutputGist2\CUsersMRahman37DesktopResourcesdemo1.jpg.json : 0 elapsed time: 0.001
+Distance1-C:\Users\MRahman37\Desktop\OutputGist2\CUsersMRahman37DesktopResourcesdemo2.jpg.json : 0.87875922336063 elapsed time: 0.001
+Distance1-C:\Users\MRahman37\Desktop\OutputGist2\CUsersMRahman37DesktopResourcesdemo3.jpg.json : 0.693039465252719 elapsed time: 0.001
+Distance1-C:\Users\MRahman37\Desktop\OutputGist2\CUsersMRahman37DesktopResourcesdemo4.jpg.json : 0.472487369908816 elapsed time: 0.001
+Distance1-C:\Users\MRahman37\Desktop\OutputGist2\CUsersMRahman37DesktopResourcesNewfolderinsidecity_art677.jpg.json : 0.821175318829062 elapsed time: 0.001
+Distance1-C:\Users\MRahman37\Desktop\OutputGist2\CUsersMRahman37DesktopResourcesNewfolderinsidecity_art681.jpg.json : 0.677008828826247 elapsed time: 0.001
+Distance1-C:\Users\MRahman37\Desktop\OutputGist2\CUsersMRahman37DesktopResourcesNewfolderinsidecity_art690.jpg.json : 0.59970043704965 elapsed time: 0.001
+Distance1-C:\Users\MRahman37\Desktop\OutputGist2\CUsersMRahman37DesktopResourcesNewfolderinsidecity_art692.jpg.json : 0.610402962034466 elapsed time: 0.001
+Distance1-C:\Users\MRahman37\Desktop\OutputGist2\DCodesPetrel2015PluginLMgistPlugin1Tester1Resourcesdemo1.jpg.json : 0 elapsed time: 0
+Distance1-C:\Users\MRahman37\Desktop\OutputGist2\CUsersMRahman37DesktopResourcesdemo1.jpg.json : 1.0181125824007 elapsed time: 0.001
+Distance1-C:\Users\MRahman37\Desktop\OutputGist2\CUsersMRahman37DesktopResourcesdemo2.jpg.json : 1.01832729683059 elapsed time: 0.001
+Distance1-C:\Users\MRahman37\Desktop\OutputGist2\CUsersMRahman37DesktopResourcesdemo3.jpg.json : 0.574558886403528 elapsed time: 0.001
+Distance1-C:\Users\MRahman37\Desktop\OutputGist2\CUsersMRahman37DesktopResourcesdemo4.jpg.json : 0.828988192217496 elapsed time: 0.001
+Distance1-C:\Users\MRahman37\Desktop\OutputGist2\CUsersMRahman37DesktopResourcesNewfolderinsidecity_art677.jpg.json : 0.945143174409864 elapsed time: 0.001
+Distance1-C:\Users\MRahman37\Desktop\OutputGist2\CUsersMRahman37DesktopResourcesNewfolderinsidecity_art681.jpg.json : 1.3507641664937 elapsed time: 0.001
+Distance1-C:\Users\MRahman37\Desktop\OutputGist2\CUsersMRahman37DesktopResourcesNewfolderinsidecity_art690.jpg.json : 0.732747509582961 elapsed time: 0.001
+Distance1-C:\Users\MRahman37\Desktop\OutputGist2\CUsersMRahman37DesktopResourcesNewfolderinsidecity_art692.jpg.json : 0.578004031236708 elapsed time: 0.001
+Distance1-C:\Users\MRahman37\Desktop\OutputGist2\DCodesPetrel2015PluginLMgistPlugin1Tester1Resourcesdemo1.jpg.json : 1.0181125824007 elapsed time: 0.001
+--------------------
+
+0.453718545248428 C:\Users\MRahman37\Desktop\Resources\a normal fault - Inner Moray Firth INTERPRETATION.jpg
+0.617133712177934 C:\Users\MRahman37\Desktop\Resources\arc deepwater thrust zone INTERPRETATION.jpg
+0.77800963917649 C:\Users\MRahman37\Desktop\Resources\Buckle folded Messinian strata, Western Ionian interpretation.jpg
+0.97729713919113 C:\Users\MRahman37\Desktop\Resources\Buckled thrusted Messinian evaporites, Ionian Sea INTERPRETATION.jpg
+1.12848062372431 C:\Users\MRahman37\Desktop\Resources\Deep water Niger delta - imaging the thrust.jpg
+0.617133712177934 C:\Users\MRahman37\Desktop\Resources\deepwater thrust zone INTERPRETATION.jpg
+1.46586076249896 C:\Users\MRahman37\Desktop\Resources\Deformation on the margin of the Ionian sea. INTERPRETATION.jpg
+0.857322872073494 C:\Users\MRahman37\Desktop\Resources\Deformed Ionian sea bed.jpg
+0.786203791462654 C:\Users\MRahman37\Desktop\Resources\DHIs - seismic expression.jpg
+0.546089146270691 C:\Users\MRahman37\Desktop\Resources\faulted clinoforms - offshore Namibia INTERPRETATION.jpg
+0.691896295040268 C:\Users\MRahman37\Desktop\Resources\Interprated DHIs - chimneys, BSR, dim out, phase changes INTERPRETATION.jpg
+0.70304806126687 C:\Users\MRahman37\Desktop\Resources\interpretation 1 - imaging a thrust in deep-water Niger delta.jpg
+0.899298101324051 C:\Users\MRahman37\Desktop\Resources\interpretation 2 - imaging a thrust in deep-water Niger delta.jpg
+0.948507490908832 C:\Users\MRahman37\Desktop\Resources\Ionian sea floor stratigraphy and deformation.jpg
+0.470577967711618 C:\Users\MRahman37\Desktop\Resources\Moray Firth fault interpretation exercise.jpg
+0.747101336825641 C:\Users\MRahman37\Desktop\Resources\normal fault study - Inner Moray Firth.jpg
+0.0158423804016662 C:\Users\MRahman37\Desktop\Resources\Normal faults in the Inner Moray Firth - 1 interpreted.jpg
+0 C:\Users\MRahman37\Desktop\Resources\Normal faults in the Inner Moray Firth - 1A.jpg
+0.395181559768767 C:\Users\MRahman37\Desktop\Resources\North Sea Salt tectonics - 7 interpreted by Simon Stewart INTERPRETATION.jpg
+0.467591529148809 C:\Users\MRahman37\Desktop\Resources\North Sea salt tectonics - 7.jpg
+0.52788308558045 C:\Users\MRahman37\Desktop\Resources\Shallow section with faulted clinoforms - offshore Namibia.jpg
+1.70101710271239 C:\Users\MRahman37\Desktop\Resources\study of thrust zone - toe thrust from deep-water Namibia.jpg

@@ -1,0 +1,14 @@
+<Deployment>
+  <Files>
+    <File Name="LMgistPlugin1.dll" />
+    <File Name="LMgistPlugin1.pdb" />
+    <File Name="LMgistPlugin1.Plugin_Manifest.xml" />
+    <File Name="MathNet.Numerics.dll" />
+    <File Name="MathNet.Numerics.xml" />
+    <File Name="Newtonsoft.Json.dll" />
+    <File Name="Newtonsoft.Json.xml" />
+    <File Name="Slb.Ocean.Petrel.Configuration.UI.Internal.dll" />
+    <File Name="Slb.Petrel.Foundation.Services.dll" />
+    <File Name="Slb.Petrel.Glass.Shell.dll" />
+  </Files>
+</Deployment>

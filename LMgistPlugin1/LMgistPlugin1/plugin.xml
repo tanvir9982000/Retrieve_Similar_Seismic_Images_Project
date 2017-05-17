@@ -1,0 +1,31 @@
+<InstalledPlugins>
+  <Plugin>
+  <Name>Plugin</Name>
+  <Description>To provide geophysicists information about similar Seismic images from historical data to making precise decisions easily
+</Description>
+  <Contact>mtrahman3@uh.edu</Contact>
+  <PluginTypeName>LMgistPlugin1.Plugin, LMgistPlugin1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</PluginTypeName>
+  <PluginUri>http://www.pluginuri.info/</PluginUri>
+  <PluginId>://LMgistPlugin1.Plugin/1.0.0.0</PluginId>
+  <Trust PublicKeyToken="">Default</Trust>
+  <ReleaseDate>2015-08-13</ReleaseDate>
+  <Author>MRahman37</Author>
+  <AppVersion>2014.1</AppVersion>
+  <Modules>
+    <Module TypeName="LMgistPlugin1.LMgistModule1, LMgistPlugin1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      
+    </Module>
+  </Modules>
+  <Assemblies>
+    <Assembly Name="LMgistPlugin1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+    <Assembly Name="MathNet.Numerics, Version=3.7.0.0, Culture=neutral, PublicKeyToken=null" />
+    <Assembly Name="Newtonsoft.Json, Version=7.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed" />
+    <Assembly Name="Slb.Ocean.Petrel.Configuration.UI.Internal, Version=1.0.0.0, Culture=neutral, PublicKeyToken=d42cec326f61051f" />
+    <Assembly Name="Slb.Petrel.Foundation.Services, Version=14.1.0.0, Culture=neutral, PublicKeyToken=d42cec326f61051f" />
+    <Assembly Name="Slb.Petrel.Glass.Shell, Version=14.1.0.0, Culture=neutral, PublicKeyToken=da9605198f529641" />
+  </Assemblies>
+  
+  <StartMode>Startup</StartMode>
+  <StartupAction>None</StartupAction>
+</Plugin>
+</InstalledPlugins>
