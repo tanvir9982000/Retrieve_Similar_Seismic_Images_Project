@@ -1,1 +1,1 @@
-﻿# Schlumberger_Project
+﻿# Retrieve content-based similar seismic images_Project
